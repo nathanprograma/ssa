@@ -1,0 +1,25 @@
+#samare{
+    border:solid goldenrod;
+    border-radius: 10px 10px 10px 10px;
+    width: 200px;
+    position: absolute;
+    top: 299px;
+}
+
+#ds{
+    color: black;
+}
+
+h1{
+    position: absolute;
+    left: 230px;
+    top: 40px;
+}
+
+h2{
+    position: absolute;
+    top: 190px;
+}
+
+
+
